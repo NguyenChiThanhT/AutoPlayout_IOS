@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shop_01/Views/CategoryCell.swift"
+            timestampString = "574316102.8759789"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop_01.CategoryCell.__deallocating_deinit"
+                  moduleName = "Shop_01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenchithanh/Desktop/ios/autoplayout/Shop_01/Shop_01/Views/CategoryCell.swift"
+                  timestampString = "574265702.802557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop_01.CategoryCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Shop_01.CategoryCell"
+                  moduleName = "Shop_01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenchithanh/Desktop/ios/autoplayout/Shop_01/Shop_01/Views/CategoryCell.swift"
+                  timestampString = "574265702.809548"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "13">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop_01.CategoryCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Shop_01.CategoryCell"
+                  moduleName = "Shop_01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenchithanh/Desktop/ios/autoplayout/Shop_01/Shop_01/Views/CategoryCell.swift"
+                  timestampString = "574265702.813311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop_01.CategoryCell.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Shop_01.CategoryCell&gt;"
+                  moduleName = "Shop_01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenchithanh/Desktop/ios/autoplayout/Shop_01/Shop_01/Views/CategoryCell.swift"
+                  timestampString = "574265702.821154"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shop_01.CategoryCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Shop_01.CategoryCell&gt;"
+                  moduleName = "Shop_01"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenchithanh/Desktop/ios/autoplayout/Shop_01/Shop_01/Views/CategoryCell.swift"
+                  timestampString = "574265702.825105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shop_01/Controller/CategoryVC.swift"
+            timestampString = "574316102.876225"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
